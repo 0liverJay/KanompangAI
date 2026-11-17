@@ -6,7 +6,7 @@ A small offline Android budgeting calculator with two independent tabs: **Estima
 
 The requirements, design, implementation contract, and acceptance plan are in [docs/reconstruction](docs/reconstruction/). The original production Java, XML, icons, Gradle configuration, and wrapper are preserved byte for byte. Verification tests and documentation are additions; they do not change application behavior.
 
-The documents describe `com.github.microkibaco.ultimate.unidramer` and a Java package ending in `.life`. The supplied implementation instead uses **`com.noey`** for its namespace, application ID, Java package, and launcher activity. This project retains `com.noey` to honor the exact-code reconstruction requirement. The root project and application label are `unidramer`; the visible heading is `Ultimate Budgeter`.
+Java package ending in `.life`. The supplied  uses **`com.noey`** for its namespace, application ID, Java package, and launcher activity. This project retains `com.noey` to honor the exact-code reconstruction requirement. The root project and application label are `unidramer`; the visible heading is `Ultimate Budgeter`.
 
 ## Requirements and setup
 
