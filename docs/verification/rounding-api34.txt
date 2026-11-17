@@ -1,0 +1,21 @@
+
+com.noey.BudgetAcceptanceTest:
+Error in estimatedNumericalOracleAndChart(com.noey.BudgetAcceptanceTest):
+java.lang.AssertionError: Documented rounding discrepancies: [49999 expected Education Expenses: $3749.93; actual Education Expenses: $3749.92, 49999 expected Food Expenses: $8749.83; actual Food Expenses: $8749.82]
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at com.noey.BudgetAcceptanceTest.estimatedNumericalOracleAndChart(BudgetAcceptanceTest.java:108)
+
+
+Time: 15.588
+There was 1 failure:
+1) estimatedNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+java.lang.AssertionError: Documented rounding discrepancies: [49999 expected Education Expenses: $3749.93; actual Education Expenses: $3749.92, 49999 expected Food Expenses: $8749.83; actual Food Expenses: $8749.82]
+	at org.junit.Assert.fail(Assert.java:89)
+	at org.junit.Assert.assertTrue(Assert.java:42)
+	at com.noey.BudgetAcceptanceTest.estimatedNumericalOracleAndChart(BudgetAcceptanceTest.java:108)
+
+FAILURES!!!
+Tests run: 1,  Failures: 1
+
+

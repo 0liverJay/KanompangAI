@@ -1,0 +1,7 @@
+
+com.noey.BudgetAcceptanceTest:......
+com.noey.ToastContractTest:.
+
+Time: 97.639
+
+OK (7 tests)

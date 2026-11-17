@@ -1,0 +1,250 @@
+{
+  "archive_sha256": "8de81e6ec99678542642a1e4a6e38a65ac4d28b9bf795eeee66418bab4adb53d",
+  "files": [
+    {
+      "path": "app/proguard-rules.pro",
+      "sha256": "56fd960cf225f6ca40f982b13a5dbb0d8bc3dfde13ff76422825c6070d0a1890",
+      "bytes": 750
+    },
+    {
+      "path": "app/.gitignore",
+      "sha256": "5c3174b74edc6f2b9e0743594b8bd3c7f31e4f4405758cc9872b3fe1de1d28b4",
+      "bytes": 6
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "sha256": "ebdd50a29e22889eb84926f6ba7989fd8cea73a72c9ddac4d448e485188752df",
+      "bytes": 1076
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "sha256": "27380cf521eb7680064a3f9c67cec1fb1fbc907fb819f3770a6604570d6b11a0",
+      "bytes": 990
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+      "sha256": "846219e6f72fe9a6c104ca8919cbee36a101e7d2ff8da9da67b689a5888f060d",
+      "bytes": 982
+    },
+    {
+      "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+      "sha256": "4e2c58b91de01130e6479e00cbbaaf6e77cd961dd2c8e303cf13cd077fa92632",
+      "bytes": 1772
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher.webp",
+      "sha256": "dd00996198640ed28fbc09cdcd7a3807cf8707f3eb255b659634da3ca6a6ff01",
+      "bytes": 1404
+    },
+    {
+      "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
+      "sha256": "1ed73f5341a69d3b41c7e02e126803f50cc8c3284adf4bbb737f0c93577aef07",
+      "bytes": 2898
+    },
+    {
+      "path": "app/src/main/res/drawable/edit_text_bg.xml",
+      "sha256": "7ec64bcef5a0b6a17d702b977c27de77feaab7947d93795fcedc75a68865f9b1",
+      "bytes": 1565
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+      "sha256": "01d1a6a6c1234eb7fe270d097eb283d72b9c95ae5118886f1b6573aad280f1f7",
+      "bytes": 1702
+    },
+    {
+      "path": "app/src/main/res/drawable/custom_dialog_background.xml",
+      "sha256": "140aa800ecf86f196de9b8d32a09dfbc511e16e0a8f43548a8f0c40d62d6e21c",
+      "bytes": 249
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_background.xml",
+      "sha256": "ed423c73a6f40a4d2909f0901e60527b3a807cd59e1b5593bcaae1808b1c6321",
+      "bytes": 5606
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+      "sha256": "f98fef5bc3bfe5b65692c40ad1cbae2bec4faf9f1b249c397626740db71b62d8",
+      "bytes": 3844
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+      "sha256": "5faf033745c8c882c43bb1b372d4e4a5890caec63d9892a2e756c954108b85dc",
+      "bytes": 7778
+    },
+    {
+      "path": "app/src/main/res/layout/pie_item_home.xml",
+      "sha256": "44cbd2d12a40bc6d35c602834f17a98fd8bf12ff292c5a6c3b389a1c2afd6ad7",
+      "bytes": 2089
+    },
+    {
+      "path": "app/src/main/res/layout/pie_item_estimated.xml",
+      "sha256": "8b54ffb9e22e60d21e91dd3eb0e8aec15921884d98893ab0e5afb341beba4e4f",
+      "bytes": 3947
+    },
+    {
+      "path": "app/src/main/res/layout/income_input_view.xml",
+      "sha256": "70438dd097a931a298800c30ba2c61fbe2215b5ab4952783baae970293eba3f1",
+      "bytes": 741
+    },
+    {
+      "path": "app/src/main/res/layout/activity_home.xml",
+      "sha256": "1ed7e267336fa4f34cb8efd12562526125b989c65781f5bc0a4672f256f5b19c",
+      "bytes": 1615
+    },
+    {
+      "path": "app/src/main/res/layout/pie_item_actual.xml",
+      "sha256": "c78219d733d63b5f518f93dba0a9b86d5529ca69132e2d1a3831f15930857263",
+      "bytes": 7285
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+      "sha256": "58ae87fa0c5b5d1562d27fd648d2c061553fe20e3ed570bde588162d01ea7a27",
+      "bytes": 2884
+    },
+    {
+      "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+      "sha256": "3009fad079f5772f30ecd767f98924367fbe0f81c30048d672d4fda2d5ca7d12",
+      "bytes": 5914
+    },
+    {
+      "path": "app/src/main/res/values-night/themes.xml",
+      "sha256": "16c361fbe52fa3b8e3eed0be9965ae94dd0e463a38f25d612863c09b58985da0",
+      "bytes": 811
+    },
+    {
+      "path": "app/src/main/res/values/colors.xml",
+      "sha256": "21af6ad9f04e8cd1e54f5f066798c41e7702406179de2ef1785b392360b48268",
+      "bytes": 463
+    },
+    {
+      "path": "app/src/main/res/values/themes.xml",
+      "sha256": "f5f2cfb9ad7ca5ca9e4dac54ab288c4fd4a3508a70056a618e633825713047c3",
+      "bytes": 811
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "sha256": "8266b27fe360cf5e5bbc434eb2833e4143d3f0280b41a833aee7970565c72f71",
+      "bytes": 71
+    },
+    {
+      "path": "app/src/main/res/values/refs.xml",
+      "sha256": "20e851e09d7165c8ed7d3a2bc1ccb4abc8bc3d767e45e4214cf804a176c5329d",
+      "bytes": 62
+    },
+    {
+      "path": "app/src/main/res/xml/backup_rules.xml",
+      "sha256": "9f7e4c84c8fd2c81478d15962383f47cc6ff55d62abcd40c8ffa6fc08a8c35b7",
+      "bytes": 478
+    },
+    {
+      "path": "app/src/main/res/xml/data_extraction_rules.xml",
+      "sha256": "cb1fc47ab4a984530ed60e0e6ee638929c3038290e7e7e0b4b03a3a30fbe7381",
+      "bytes": 551
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+      "sha256": "398340dad816fc9a6338cb151a8cf1e45b926f9bfb70628b24c4bd2523cc94d4",
+      "bytes": 1900
+    },
+    {
+      "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+      "sha256": "91b490aef86574901137f0a252272e1f1add99c1ad709e0696ed68929b88d261",
+      "bytes": 3918
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi/ic_launcher.xml",
+      "sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "bytes": 343
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi/ic_launcher_round.xml",
+      "sha256": "88f7653499ef524126ea5018a99baf9cc3269e7e584d6205dfdd76db39f39cc0",
+      "bytes": 343
+    },
+    {
+      "path": "app/src/main/java/com/noey/EstimatedFragment.java",
+      "sha256": "834c26472e3d70a8f3e39c757f50b5c99b09914264588c2be89496c0887743f2",
+      "bytes": 8146
+    },
+    {
+      "path": "app/src/main/java/com/noey/UltimateAdapter.java",
+      "sha256": "582d9414999be72241be2ec7232d1f676f2e066acde0eab79d18847dd8e32503",
+      "bytes": 997
+    },
+    {
+      "path": "app/src/main/java/com/noey/ActualFragment.java",
+      "sha256": "7236f4b4cab482089c01f0407424a0b8da538b127b9d9adc3d2a820bf45fdba3",
+      "bytes": 8754
+    },
+    {
+      "path": "app/src/main/java/com/noey/HomeActivity.java",
+      "sha256": "7e78d1672cc9202f227360d74dd9a276a138adc944fdeb91d7388ef1d275d527",
+      "bytes": 1750
+    },
+    {
+      "path": "build.gradle.kts",
+      "sha256": "e43ae765ce974092dd1b5c1a772b525cf537c86aba700ed2a25f525c2dcf6ccc",
+      "bytes": 168
+    },
+    {
+      "path": "doc/estimated_error.png",
+      "sha256": "85846f33dc3c44fdbc4df65cb759ab31991e0f19b3accba1d2482d98f859dfab",
+      "bytes": 56514
+    },
+    {
+      "path": "doc/actual_error.png",
+      "sha256": "afa9790b817cac98120ee99f20430d383bc4f5c8b2debb4b4bd825080c019ebb",
+      "bytes": 89808
+    },
+    {
+      "path": "doc/uni_dramer.mov",
+      "sha256": "4dfd66474da47f065ca8985c257a9de58a9323493f1f68f634d3a6245f2e849b",
+      "bytes": 22654815
+    },
+    {
+      "path": "doc/actual1.png",
+      "sha256": "ac411f87ce0bcbd159e102f8f1d16491579a752dd9d8cb0593fe8b328a33de2c",
+      "bytes": 162548
+    },
+    {
+      "path": "doc/estimated.png",
+      "sha256": "11124818d3626712ebfcb37a8df47bef888f1fc01eab7faa57d933be01b7a6d9",
+      "bytes": 148487
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "sha256": "125033c21307b206b6db18ab3bc4b282757ff6543a3f3f8be5638ec90f5a9d4a",
+      "bytes": 941
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "sha256": "e996d452d2645e70c01c11143ca2d3742734a28da2bf61f25c82bdc288c9e637",
+      "bytes": 59203
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "sha256": "94b906ab9db55938e6430e57752d80537cdd07e022b5252eb80d5555af9c96c3",
+      "bytes": 230
+    },
+    {
+      "path": "gradle.properties",
+      "sha256": "41a9783e6d8fba6d52cf787adab4b02b9d0593169e30590c51aa9be2eebe8182",
+      "bytes": 1255
+    },
+    {
+      "path": "gradlew",
+      "sha256": "63135287117a1e6d12c84580f1f49c61d1ba02218ecd28660605e97f976e7d65",
+      "bytes": 5766
+    },
+    {
+      "path": "gradlew.bat",
+      "sha256": "c46a27c79007746de5922b17abb6230d64ad8b1ba3ad1585ee5c6543c2a9b129",
+      "bytes": 2674
+    },
+    {
+      "path": "settings.gradle",
+      "sha256": "836902a1b5dba9f7769b790eec1eaf2f440b3a1391bafaa21a3cba2ab644e986",
+      "bytes": 556
+    }
+  ]
+}

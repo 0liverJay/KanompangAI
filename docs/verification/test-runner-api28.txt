@@ -1,0 +1,25 @@
+--------- beginning of system
+--------- beginning of main
+11-17 22:31:55.299  4409  4447 I TestRunner: finished: fourReferenceScreenshots(com.noey.BudgetAcceptanceTest)
+11-17 22:32:35.183  4409  4447 I TestRunner: finished: validationAndStaleParserOutput(com.noey.BudgetAcceptanceTest)
+11-17 22:32:35.546  4409  4447 I TestRunner: started: actualNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:32:44.731  4409  4447 I TestRunner: finished: actualNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:32:45.035  4409  4447 I TestRunner: started: estimatedNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:32:59.722  4409  4447 I TestRunner: finished: estimatedNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:33:00.026  4409  4447 I TestRunner: run finished: 6 tests, 1 failed, 0 ignored
+11-17 22:33:16.126  4614  4639 I TestRunner: run started: 7 tests
+11-17 22:33:16.126  4614  4639 I TestRunner: started: fourReferenceScreenshots(com.noey.BudgetAcceptanceTest)
+11-17 22:33:26.434  4614  4639 I TestRunner: finished: fourReferenceScreenshots(com.noey.BudgetAcceptanceTest)
+11-17 22:33:26.740  4614  4639 I TestRunner: started: independentLivePagesAndEditing(com.noey.BudgetAcceptanceTest)
+11-17 22:33:31.313  4614  4639 I TestRunner: finished: independentLivePagesAndEditing(com.noey.BudgetAcceptanceTest)
+11-17 22:33:31.617  4614  4639 I TestRunner: started: tapAndSwipeNavigation(com.noey.BudgetAcceptanceTest)
+11-17 22:33:34.799  4614  4639 I TestRunner: finished: tapAndSwipeNavigation(com.noey.BudgetAcceptanceTest)
+11-17 22:33:35.102  4614  4639 I TestRunner: started: validationAndStaleParserOutput(com.noey.BudgetAcceptanceTest)
+11-17 22:34:09.585  4614  4639 I TestRunner: finished: validationAndStaleParserOutput(com.noey.BudgetAcceptanceTest)
+11-17 22:34:09.891  4614  4639 I TestRunner: started: actualNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:34:19.059  4614  4639 I TestRunner: finished: actualNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:34:19.363  4614  4639 I TestRunner: started: estimatedNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:34:34.046  4614  4639 I TestRunner: finished: estimatedNumericalOracleAndChart(com.noey.BudgetAcceptanceTest)
+11-17 22:34:34.350  4614  4639 I TestRunner: started: exactMessagesAndValidationPrecedence(com.noey.ToastContractTest)
+11-17 22:34:50.675  4614  4639 I TestRunner: finished: exactMessagesAndValidationPrecedence(com.noey.ToastContractTest)
+11-17 22:34:50.980  4614  4639 I TestRunner: run finished: 7 tests, 0 failed, 0 ignored
